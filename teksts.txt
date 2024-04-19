@@ -1,0 +1,4 @@
+1) git branch alina_bokareva
+   git checkout alina_bokareva
+
+2) git push origin alina_bokareva
