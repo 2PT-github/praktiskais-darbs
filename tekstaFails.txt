@@ -1,4 +1,4 @@
 Es izveidoju zaru ar komandiem
     1. git checkout -b anzelika_starceva
-
+    2. git push origin anzelika_starceva
 
