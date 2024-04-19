@@ -1,2 +1,2 @@
 git branch eriks_anisimovics
-git push main origin
+git push origin eriks_anisimovics
