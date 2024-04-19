@@ -1,2 +1,3 @@
 ar `git branch <nosaukums>`
+tad `git checkout <nosaukums>`
 un ar `git push`
