@@ -1,0 +1,2 @@
+git branch eriks_anisimovics
+git push main origin
