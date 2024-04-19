@@ -1,0 +1,2 @@
+git checkout -b aleksandrs_ostapjuks
+git clone https://github.com/2PT-github/praktiskais-darbs.git
