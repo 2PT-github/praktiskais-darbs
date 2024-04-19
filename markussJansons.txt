@@ -1,1 +1,2 @@
 1. Izveidoju zaru ar git checkout -b palīdzību
+    Viss ir superīgi
