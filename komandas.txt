@@ -1,2 +1,3 @@
 Zaru izveidoju:
 komandu - git branch andrejs_rackovs
+Augšupielādēju repo:
