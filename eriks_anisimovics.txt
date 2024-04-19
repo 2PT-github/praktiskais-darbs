@@ -1,2 +1,3 @@
 git branch eriks_anisimovics
 git push origin eriks_anisimovics
+git clone https://github.com/2PT-github/praktiskais-darbs.git
