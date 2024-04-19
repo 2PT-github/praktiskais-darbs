@@ -2,4 +2,4 @@ Es izveidoju zaru ar komandiem
     1. git checkout -b anzelika_starceva
     2. git push origin anzelika_starceva
 Ka augšpieladet github repo
-    1. git puch origin anzelika_starceva
+    1. git push origin anzelika_starceva
