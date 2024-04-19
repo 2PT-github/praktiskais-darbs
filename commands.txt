@@ -1,0 +1,4 @@
+git checkout -b Maksims_Bizjuks
+git clone https://github.com/2PT-github/praktiskais-darbs
+git commit -m "Pirmais"
+git push origin Maksims_Bizjuks
