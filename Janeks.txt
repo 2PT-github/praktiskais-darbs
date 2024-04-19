@@ -1,3 +1,5 @@
 git branch dagnis_janeks
 
 git checkout dagnis_janeks
+
+git push origin dagnis_janeks
