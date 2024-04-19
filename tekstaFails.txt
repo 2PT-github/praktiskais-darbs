@@ -1,1 +1,2 @@
 git checkout -b martins_lagzdins
+git push origin martins_lagzdins
