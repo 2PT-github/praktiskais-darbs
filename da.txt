@@ -1,1 +1,2 @@
 git checkout -b "Artjoms-Sidorcenko"
+git push origin Artjoms-Sidorcenko
