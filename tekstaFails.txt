@@ -1,3 +1,4 @@
-
+Es izveidoju zaru ar komandiem
+    1. git checkout -b anzelika_starceva
 
 
