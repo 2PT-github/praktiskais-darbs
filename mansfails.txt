@@ -1,1 +1,2 @@
 git branch "lauris_acilovs"
+git pull https://github.com/2PT-github/praktiskais-darbs.git
