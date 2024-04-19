@@ -1,2 +1,2 @@
 git checkout -b rudolfs_suklais
-git clone https://github.com/2PT-github/praktiskais-darbs.git
+git push origin rudolfs_suklais
