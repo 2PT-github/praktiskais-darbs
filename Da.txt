@@ -1,3 +1,4 @@
 git checkout -b Artjoms_Sidorcenko;Davids_Necajevs
 git push origin Artjoms_Sidorcenko;Davids_Necajevs
 Kā jums iet?
+Man viss kartībā
