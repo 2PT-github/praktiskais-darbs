@@ -1,4 +1,7 @@
 1)git branch jevgenija_senko
 git checkout -b jevgenija_senko
 
-git push origin jevgenija_senko
+2_git push origin jevgenija_senko
+
+3)privetuse
+
