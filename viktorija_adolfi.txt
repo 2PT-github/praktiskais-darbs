@@ -1,1 +1,2 @@
 git branch viktorija_adolfi
+git push main origin
