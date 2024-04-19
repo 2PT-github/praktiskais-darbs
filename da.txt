@@ -1,2 +1,3 @@
 git checkout -b "Artjoms-Sidorcenko"
 git push origin Artjoms-Sidorcenko
+Lai izveidot 3 commit
