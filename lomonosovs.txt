@@ -1,1 +1,2 @@
 git branch niks_lomonosovs
+git push origin niks_lomonosovs
