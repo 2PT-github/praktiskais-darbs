@@ -1,0 +1,2 @@
+Zaru izveidoju:
+komandu - git branch andrejs_rackovs
